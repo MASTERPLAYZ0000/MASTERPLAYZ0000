@@ -38,5 +38,21 @@ class About extends Myself {
       JavaScript::class,
     ];
   }
+  
+  public function getUsingIdes() : array {
+    return [
+      PhpStorm::class,
+      Goland::class,
+    ];
+  }
+  
+  public function getUsingEditors() : array {
+    return [
+      Notepad::class,
+      VisualStudio::class,
+    ];
+  }
+}
+?>
 ```
 ![MASTERPLAYZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&theme=tokyonight)
