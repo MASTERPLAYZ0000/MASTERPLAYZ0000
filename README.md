@@ -1,4 +1,5 @@
-[![Header](https://github.com/MASTERPLAYZ0000/MASTERPLAYZ0000/images/header.jpg "Header")](https://github.com/MASTERPLAYZ0000/)
+[![Header](https://raw.githubusercontent.com/MASTERPLAYZ0000/<OWNER>/<OWNER>/header.jpg "Header")](#)
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
