@@ -1,4 +1,5 @@
-![Header](https://github.com/MASTERPLAYZ0000/MASTERPLAYZ0000/blob/main/header.jpg?raw=true)
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![Header](https://raw.githubusercontent.com/MASTERPLAYZ0000/MASTERPLAYZ0000/main/images/header.jpg)
 
 ### Hi there 👋
 
