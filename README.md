@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MASTERPLAYZ0000/<OWNER>/<OWNER>/header.jpg "Header")](#)
+![Header](https://github.com/MASTERPLAYZ0000/MASTERPLAYZ0000/blob/main/header.jpg?raw=true)
 
 ### Hi there 👋
 
