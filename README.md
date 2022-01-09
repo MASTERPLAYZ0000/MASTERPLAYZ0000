@@ -4,6 +4,20 @@
 
 namespace MASTERPLAYZ0000;
 
+use MASTERPLAYZ0000\languages\Php;
+use MASTERPLAYZ0000\languages\Golang;
+use MASTERPLAYZ0000\languages\JavaScript;
+use MASTERPLAYZ0000\languages\C#;
+
+use MASTERPLAYZ0000\ides\PhpStorm;
+use MASTERPLAYZ0000\ides\GoLand;
+use MASTERPLAYZ0000\ides\WebStorm;
+use MASTERPLAYZ0000\ides\VisualStudio;
+
+use MASTERPLAYZ0000\editors\VisualStudioCode;
+use MASTERPLAYZ0000\editors\Notepad;
+use MASTERPLAYZ0000\editors\Vim;
+
 class About extends Myself {
 
   private $name = "MasterPlayz";
@@ -36,20 +50,24 @@ class About extends Myself {
       Php::class,
       Golang::class,
       JavaScript::class,
+      C#::class
     ];
   }
   
   public function getUsingIdes() : array {
     return [
       PhpStorm::class,
-      Goland::class,
+      GoLand::class,
+      WebStorm::class,
+      VisualStudio::class
     ];
   }
   
   public function getUsingEditors() : array {
     return [
       Notepad::class,
-      VisualStudio::class,
+      VisualStudioCode::class,
+      Vim::class
     ];
   }
 }
