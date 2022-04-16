@@ -67,7 +67,8 @@ class About extends Myself {
     return [
       Notepad::class,
       VisualStudioCode::class,
-      Vim::class
+      Vim::class,
+      SublimeText::class
     ];
   }
 }
