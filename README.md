@@ -7,7 +7,7 @@ namespace MASTERPLAYZ0000;
 use MASTERPLAYZ0000\languages\Php;
 use MASTERPLAYZ0000\languages\Golang;
 use MASTERPLAYZ0000\languages\JavaScript;
-use MASTERPLAYZ0000\languages\C#;
+use MASTERPLAYZ0000\languages\CSharp;
 
 use MASTERPLAYZ0000\ides\PhpStorm;
 use MASTERPLAYZ0000\ides\GoLand;
@@ -50,7 +50,7 @@ class About extends Myself {
       Php::class,
       Golang::class,
       JavaScript::class,
-      C#::class
+      CSharp::class
     ];
   }
   
