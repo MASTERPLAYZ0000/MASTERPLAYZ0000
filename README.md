@@ -76,7 +76,7 @@ class About extends Myself {
 ```
 
 <table style="border: none;">
-  <tr>
+  <tr style="border: none;">
     <td valign="top"> 
     <img src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" alt="MASTERPLAYZ0000" />
     </td>
@@ -88,8 +88,3 @@ class About extends Myself {
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></a> 
   </p>
-<style>
-td, th {
-   border: none!important;
-}
-</style>
