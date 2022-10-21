@@ -75,4 +75,4 @@ class About extends Myself {
 ?>
 ```
 <p align="center" style="width: 100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></a> </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" alt="MASTERPLAYZ0000" /></p><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" alt="MASTERPLAYZ0000" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></p>
