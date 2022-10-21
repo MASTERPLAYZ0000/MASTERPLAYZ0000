@@ -81,5 +81,5 @@ class About extends Myself {
 <img style="height: auto; width: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: auto;" src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" />
+<img style="height: auto; width: 100%;" src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" />
 </div>
