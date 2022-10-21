@@ -1,7 +1,7 @@
 ![Header](https://github.com/MASTERPLAYZ0000/MASTERPLAYZ0000/blob/7891eea44cd2bc344e1c4bbf248e65c47d58aae0/images/header.jpg)
-</br>
+
 <img align="center" style="height: auto; width: 100%;" src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" />
-</br>
+
 ```php
 <?php
 
