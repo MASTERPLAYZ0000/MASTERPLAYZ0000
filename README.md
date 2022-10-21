@@ -74,17 +74,12 @@ class About extends Myself {
 }
 ?>
 ```
-
-<table style="border: none">
-  <tr>
-    <td valign="top"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" alt="MASTERPLAYZ0000" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" />
-    </td>
-  </tr>
-</table>
+<div class='container'>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" />
+</div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></a> 
   </p>
