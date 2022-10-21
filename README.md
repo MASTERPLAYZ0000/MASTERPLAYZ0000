@@ -2,6 +2,7 @@
 <img align="right" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" />
 <img align="left" style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" />
 <br/>
+![Body](
 ```php
 <?php
 
@@ -76,5 +77,5 @@ class About extends Myself {
   }
 }
 ?>
-```
+```)
 <img align="center" style="height: auto; width: 100%;" src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" />
