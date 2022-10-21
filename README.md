@@ -88,3 +88,8 @@ class About extends Myself {
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></a> 
   </p>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
