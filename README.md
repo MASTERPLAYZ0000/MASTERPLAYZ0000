@@ -74,7 +74,7 @@ class About extends Myself {
 }
 ?>
 ```
-<div class='container'>
+<div align="center">
 <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" />
 &nbsp;
 &nbsp;
