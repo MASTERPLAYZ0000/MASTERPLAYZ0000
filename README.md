@@ -84,9 +84,7 @@ class About extends Myself {
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" />
     </td>
   </tr>
-  <tr>
-    <td valign="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></a> 
-  </td>
-  </tr>
 </table>
+  <p valign="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></a> 
+  </p>
