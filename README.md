@@ -83,8 +83,8 @@ class About extends Myself {
     <td valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" />
     </td>
-  </tr>
-  <tr valign="center">
+    <td valign="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" /></a> 
+  </td>
   </tr>
 </table>
