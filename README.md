@@ -75,8 +75,8 @@ class About extends Myself {
 ?>
 ```
 
-<table style="border: none;">
-  <tr style="border: none;">
+<table style="border: none">
+  <tr>
     <td valign="top"> 
     <img src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" alt="MASTERPLAYZ0000" />
     </td>
