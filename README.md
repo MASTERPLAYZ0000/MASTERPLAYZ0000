@@ -75,9 +75,11 @@ class About extends Myself {
 ?>
 ```
 <div align="center">
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" />
+<img style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=MASTERPLAYZ0000&show_icons=true&locale=en&theme=tokyonight" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" />
+<img style="height: auto; width: 45%;" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTERPLAYZ0000&theme=tokyonight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 90%;" src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" />
 </div>
-<img align="center" style="height: auto; width: 90%;" src="https://github-profile-trophy.vercel.app/?username=MASTERPLAYZ0000&theme=tokyonight" alt="MASTERPLAYZ0000" />
