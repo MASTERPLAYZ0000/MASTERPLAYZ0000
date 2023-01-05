@@ -15,6 +15,7 @@ use MASTERPLAYZ0000\languages\CSharp;
 use MASTERPLAYZ0000\ides\PhpStorm;
 use MASTERPLAYZ0000\ides\GoLand;
 use MASTERPLAYZ0000\ides\WebStorm;
+use MASTERPLAYZ0000\ides\Rider;
 use MASTERPLAYZ0000\ides\VisualStudio;
 
 use MASTERPLAYZ0000\editors\VisualStudioCode;
@@ -62,6 +63,7 @@ class About extends Myself {
       PhpStorm::class,
       GoLand::class,
       WebStorm::class,
+      Rider::class,
       VisualStudio::class
     ];
   }
